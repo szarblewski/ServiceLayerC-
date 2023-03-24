@@ -1,0 +1,15 @@
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/bin/Debug/net6.0/ServiceLayer
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/bin/Debug/net6.0/ServiceLayer.deps.json
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/bin/Debug/net6.0/ServiceLayer.runtimeconfig.json
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/bin/Debug/net6.0/ServiceLayer.dll
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/bin/Debug/net6.0/ref/ServiceLayer.dll
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/bin/Debug/net6.0/ServiceLayer.pdb
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.csproj.AssemblyReference.cache
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.AssemblyInfoInputs.cache
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.AssemblyInfo.cs
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.csproj.CoreCompileInputs.cache
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.dll
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ref/ServiceLayer.dll
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.pdb
+/mnt/Dados/Desenvolvimento/exemplos/ServiceLayer/obj/Debug/net6.0/ServiceLayer.genruntimeconfig.cache
